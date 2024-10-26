@@ -20,8 +20,3 @@ Ky projekt kërkon paketat e mëposhtme të Python-it:
    ```bash
    pip install -r requirements.txt
    ```
-
-3. **Ekzekutimi i kodit** :
-   ```
-   python your_script.py
-   ```
